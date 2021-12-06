@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Stavegus
-- 👀 I’m interested in Ethical Hacking, C and Python
-- 🌱 I’m currently learning Ethical Hacking
-- 💞️ I’m looking to collaborate on Ethical Hacking and C
+- 👀 I’m interested in html/css, javascript, nodejs, vuejs
+- 🌱 I’m currently learning html/css and javascript
+- 💞️ I’m looking to collaborate javascript
 - 📫 How to reach me ...
 
 <!---
